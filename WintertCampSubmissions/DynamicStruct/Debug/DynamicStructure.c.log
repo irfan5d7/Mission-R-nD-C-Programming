@@ -1,0 +1,70 @@
+﻿Build started 12/26/2017 7:18:29 AM.
+     1>Project "C:\Users\IrfanAhmed\documents\visual studio 2013\Projects\DynamicStructure.c\DynamicStructure.c\DynamicStructure.c.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt Source.c
+         Source.c
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\dynamicstructure.c\dynamicstructure.c\utilfunc.h(26): warning C4098: 'csr' : 'void' function returning a value
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\dynamicstructure.c\dynamicstructure.c\source.c(24): warning C4101: 'k' : unreferenced local variable
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\dynamicstructure.c\dynamicstructure.c\source.c(24): warning C4101: 'j' : unreferenced local variable
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\dynamicstructure.c\dynamicstructure.c\source.c(65): warning C4101: 'c' : unreferenced local variable
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\dynamicstructure.c\dynamicstructure.c\source.c(137): warning C4028: formal parameter 3 different from declaration
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\dynamicstructure.c\dynamicstructure.c\source.c(162): warning C4047: '<' : 'int' differs in levels of indirection from 'int *'
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\dynamicstructure.c\dynamicstructure.c\source.c(223): warning C4020: 'atof' : too many actual parameters
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\dynamicstructure.c\dynamicstructure.c\source.c(223): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\dynamicstructure.c\dynamicstructure.c\source.c(139): warning C4101: 'val' : unreferenced local variable
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\dynamicstructure.c\dynamicstructure.c\source.c(254): warning C4028: formal parameter 3 different from declaration
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\dynamicstructure.c\dynamicstructure.c\source.c(289): warning C4047: '<' : 'int' differs in levels of indirection from 'int *'
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\dynamicstructure.c\dynamicstructure.c\source.c(345): warning C4047: 'function' : 'int' differs in levels of indirection from 'char [20]'
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\dynamicstructure.c\dynamicstructure.c\source.c(345): warning C4024: 'le' : different types for formal and actual parameter 6
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\dynamicstructure.c\dynamicstructure.c\source.c(345): warning C4047: 'function' : 'char *' differs in levels of indirection from 'int'
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\dynamicstructure.c\dynamicstructure.c\source.c(345): warning C4024: 'le' : different types for formal and actual parameter 7
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\dynamicstructure.c\dynamicstructure.c\source.c(345): warning C4020: 'le' : too many actual parameters
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\dynamicstructure.c\dynamicstructure.c\source.c(349): warning C4047: 'function' : 'int' differs in levels of indirection from 'char [20]'
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\dynamicstructure.c\dynamicstructure.c\source.c(349): warning C4024: 'lt' : different types for formal and actual parameter 6
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\dynamicstructure.c\dynamicstructure.c\source.c(349): warning C4047: 'function' : 'char *' differs in levels of indirection from 'int'
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\dynamicstructure.c\dynamicstructure.c\source.c(349): warning C4024: 'lt' : different types for formal and actual parameter 7
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\dynamicstructure.c\dynamicstructure.c\source.c(349): warning C4020: 'lt' : too many actual parameters
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\dynamicstructure.c\dynamicstructure.c\source.c(353): warning C4047: 'function' : 'int' differs in levels of indirection from 'char [20]'
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\dynamicstructure.c\dynamicstructure.c\source.c(353): warning C4024: 'ge' : different types for formal and actual parameter 6
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\dynamicstructure.c\dynamicstructure.c\source.c(353): warning C4047: 'function' : 'char *' differs in levels of indirection from 'int'
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\dynamicstructure.c\dynamicstructure.c\source.c(353): warning C4024: 'ge' : different types for formal and actual parameter 7
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\dynamicstructure.c\dynamicstructure.c\source.c(353): warning C4020: 'ge' : too many actual parameters
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\dynamicstructure.c\dynamicstructure.c\source.c(357): warning C4047: 'function' : 'int' differs in levels of indirection from 'char [20]'
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\dynamicstructure.c\dynamicstructure.c\source.c(357): warning C4024: 'gt' : different types for formal and actual parameter 6
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\dynamicstructure.c\dynamicstructure.c\source.c(357): warning C4047: 'function' : 'char *' differs in levels of indirection from 'int'
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\dynamicstructure.c\dynamicstructure.c\source.c(357): warning C4024: 'gt' : different types for formal and actual parameter 7
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\dynamicstructure.c\dynamicstructure.c\source.c(357): warning C4020: 'gt' : too many actual parameters
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\dynamicstructure.c\dynamicstructure.c\source.c(257): warning C4101: 'buff' : unreferenced local variable
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\dynamicstructure.c\dynamicstructure.c\source.c(258): warning C4101: 'varnm' : unreferenced local variable
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\dynamicstructure.c\dynamicstructure.c\source.c(263): warning C4101: 'val' : unreferenced local variable
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\dynamicstructure.c\dynamicstructure.c\source.c(263): warning C4101: 'k' : unreferenced local variable
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\dynamicstructure.c\dynamicstructure.c\source.c(369): warning C4028: formal parameter 6 different from declaration
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\dynamicstructure.c\dynamicstructure.c\source.c(369): warning C4028: formal parameter 7 different from declaration
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\dynamicstructure.c\dynamicstructure.c\source.c(369): warning C4029: declared formal parameter list different from definition
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\dynamicstructure.c\dynamicstructure.c\source.c(422): warning C4020: 'atof' : too many actual parameters
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\dynamicstructure.c\dynamicstructure.c\source.c(422): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\dynamicstructure.c\dynamicstructure.c\source.c(446): warning C4028: formal parameter 6 different from declaration
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\dynamicstructure.c\dynamicstructure.c\source.c(446): warning C4028: formal parameter 7 different from declaration
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\dynamicstructure.c\dynamicstructure.c\source.c(446): warning C4029: declared formal parameter list different from definition
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\dynamicstructure.c\dynamicstructure.c\source.c(499): warning C4020: 'atof' : too many actual parameters
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\dynamicstructure.c\dynamicstructure.c\source.c(499): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\dynamicstructure.c\dynamicstructure.c\source.c(523): warning C4028: formal parameter 6 different from declaration
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\dynamicstructure.c\dynamicstructure.c\source.c(523): warning C4028: formal parameter 7 different from declaration
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\dynamicstructure.c\dynamicstructure.c\source.c(523): warning C4029: declared formal parameter list different from definition
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\dynamicstructure.c\dynamicstructure.c\source.c(576): warning C4020: 'atof' : too many actual parameters
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\dynamicstructure.c\dynamicstructure.c\source.c(576): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\dynamicstructure.c\dynamicstructure.c\source.c(600): warning C4028: formal parameter 6 different from declaration
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\dynamicstructure.c\dynamicstructure.c\source.c(600): warning C4028: formal parameter 7 different from declaration
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\dynamicstructure.c\dynamicstructure.c\source.c(600): warning C4029: declared formal parameter list different from definition
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\dynamicstructure.c\dynamicstructure.c\source.c(653): warning C4020: 'atof' : too many actual parameters
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\dynamicstructure.c\dynamicstructure.c\source.c(653): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\dynamicstructure.c\dynamicstructure.c\source.c(677): warning C4101: 'val' : unreferenced local variable
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\dynamicstructure.c\dynamicstructure.c\source.c(367): warning C4715: 'operate' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\IrfanAhmed\documents\visual studio 2013\Projects\DynamicStructure.c\Debug\DynamicStructure.c.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\IrfanAhmed\documents\visual studio 2013\Projects\DynamicStructure.c\Debug\DynamicStructure.c.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\IrfanAhmed\documents\visual studio 2013\Projects\DynamicStructure.c\Debug\DynamicStructure.c.lib" /MACHINE:X86 Debug\Source.obj
+         DynamicStructure.c.vcxproj -> C:\Users\IrfanAhmed\documents\visual studio 2013\Projects\DynamicStructure.c\Debug\DynamicStructure.c.exe
+     1>Done Building Project "C:\Users\IrfanAhmed\documents\visual studio 2013\Projects\DynamicStructure.c\DynamicStructure.c\DynamicStructure.c.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.84

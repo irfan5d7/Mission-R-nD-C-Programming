@@ -1,0 +1,76 @@
+﻿Build started 12/25/2017 8:11:03 PM.
+     1>Project "C:\Users\IrfanAhmed\documents\visual studio 2013\Projects\csv\csv\csv.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt Source.c
+         Source.c
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(168): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(176): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(244): warning C4098: 'csr' : 'void' function returning a value
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(250): warning C4101: 'j' : unreferenced local variable
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(432): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(438): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(656): warning C4013: 'indxes' undefined; assuming extern returning int
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(625): warning C4101: 'lines' : unreferenced local variable
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(625): warning C4101: 'ls' : unreferenced local variable
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(625): warning C4101: 'l' : unreferenced local variable
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(625): warning C4101: 'c' : unreferenced local variable
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(798): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(804): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(863): warning C4553: '==' : operator has no effect; did you intend '='?
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(1090): warning C4020: 'atof' : too many actual parameters
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(1090): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(1105): warning C4020: 'atof' : too many actual parameters
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(1105): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(1207): warning C4020: 'atof' : too many actual parameters
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(1207): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(1222): warning C4020: 'atof' : too many actual parameters
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(1222): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(1324): warning C4020: 'atof' : too many actual parameters
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(1324): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(1339): warning C4020: 'atof' : too many actual parameters
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(1339): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(1441): warning C4020: 'atof' : too many actual parameters
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(1441): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(1456): warning C4020: 'atof' : too many actual parameters
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(1456): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(1510): warning C4101: 'k' : unreferenced local variable
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(1585): warning C4101: 'k' : unreferenced local variable
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(1741): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(1747): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(1788): warning C4553: '==' : operator has no effect; did you intend '='?
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(1972): warning C4020: 'atof' : too many actual parameters
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(1972): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(1987): warning C4020: 'atof' : too many actual parameters
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(1987): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(2089): warning C4020: 'atof' : too many actual parameters
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(2089): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(2104): warning C4020: 'atof' : too many actual parameters
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(2104): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(2205): warning C4020: 'atof' : too many actual parameters
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(2205): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(2220): warning C4020: 'atof' : too many actual parameters
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(2220): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(2322): warning C4020: 'atof' : too many actual parameters
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(2322): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(2337): warning C4020: 'atof' : too many actual parameters
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(2337): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(2366): warning C4101: 'k' : unreferenced local variable
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(2402): warning C4133: 'function' : incompatible types - from 'mrklist **' to 'merg **'
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(2402): warning C4133: '=' : incompatible types - from 'merg **' to 'mrklist **'
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(2389): warning C4101: 'k' : unreferenced local variable
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(2503): warning C4553: '==' : operator has no effect; did you intend '='?
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(2573): warning C4101: 'f' : unreferenced local variable
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(2600): warning C4101: 'f' : unreferenced local variable
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(2627): warning C4101: 'f' : unreferenced local variable
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(2654): warning C4101: 'f' : unreferenced local variable
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(2690): warning C4101: 'k' : unreferenced local variable
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(2752): warning C4101: 'k' : unreferenced local variable
+     1>c:\users\irfanahmed\documents\visual studio 2013\projects\csv\csv\source.c(741): warning C4715: 'indxes' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\IrfanAhmed\documents\visual studio 2013\Projects\csv\Debug\csv.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\IrfanAhmed\documents\visual studio 2013\Projects\csv\Debug\csv.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\IrfanAhmed\documents\visual studio 2013\Projects\csv\Debug\csv.lib" /MACHINE:X86 Debug\Source.obj
+         csv.vcxproj -> C:\Users\IrfanAhmed\documents\visual studio 2013\Projects\csv\Debug\csv.exe
+     1>Done Building Project "C:\Users\IrfanAhmed\documents\visual studio 2013\Projects\csv\csv\csv.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.51

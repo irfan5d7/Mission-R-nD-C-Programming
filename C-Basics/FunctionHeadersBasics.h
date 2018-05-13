@@ -1,0 +1,12 @@
+int count(int, int);
+int isOlder(char *, char *);
+int sum(int, int);
+void swap(int *, int *);
+int variableArguments(int arg_count, ...);
+int countOnes(int);
+int nthFibonacci(int);
+int nthPrime(int);
+int decimalToOctal(int);
+int octalToHexadecimal(int);
+unsigned int swapBits(unsigned int, int, int, int);
+void isPerfect(long [], int [], int );
